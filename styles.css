@@ -4,3 +4,6 @@ body {
   color: white;
   text-align: left;
 }
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
